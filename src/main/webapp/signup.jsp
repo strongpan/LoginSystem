@@ -14,7 +14,7 @@
 
 <h1>SignUp</h1>
 
-<form action="">
+<form action="register.jsp" method="post">
 
     <input type="text" name="username" placeholder="USERNAME">
     <input type="password" name="password" placeholder="PASSWORD">
@@ -22,6 +22,7 @@
     <input type="submit" value="REGISTER">
 
 </form>
+
 
 
 </body>

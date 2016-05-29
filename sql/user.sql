@@ -9,3 +9,5 @@ CREATE TABLE db_user.user(
   username VARCHAR(255),
   password VARCHAR(255)
 );
+
+SELECT * FROM db_user.user;
